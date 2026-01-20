@@ -12,7 +12,7 @@ The benchmark performs a multiplication of two **10,000 x 10,000** matrices.
 * **GPU Time:** ~0.002 seconds
 * **Speedup:** ~6000x faster (varies based on hardware)
 
-![Benchmark Graph](result_graph.png)
+![Benchmark Graph](result.png)
 *(Note: Ensure you view the 'result_graph.png' in the file list to see the generated plot)*
 
 ## Technologies
